@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:itenary.xcodeproj">
+      location = "self:/Users/sumit-6953/Documents/work/ios project/itenary/itinerary.xcodeproj">
    </FileRef>
 </Workspace>

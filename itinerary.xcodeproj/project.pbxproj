@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		245B6E9621CADBE600395096 /* itenary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = itenary.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		245B6E9621CADBE600395096 /* itinerary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = itinerary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		245B6E9921CADBE600395096 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		245B6E9B21CADBE600395096 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		245B6E9E21CADBE600395096 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		245B6E8D21CADBE600395096 = {
 			isa = PBXGroup;
 			children = (
-				245B6E9821CADBE600395096 /* itenary */,
+				245B6E9821CADBE600395096 /* itinerary */,
 				245B6E9721CADBE600395096 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		245B6E9721CADBE600395096 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				245B6E9621CADBE600395096 /* itenary.app */,
+				245B6E9621CADBE600395096 /* itinerary.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		245B6E9821CADBE600395096 /* itenary */ = {
+		245B6E9821CADBE600395096 /* itinerary */ = {
 			isa = PBXGroup;
 			children = (
 				245B6E9921CADBE600395096 /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				245B6EA221CADBEC00395096 /* LaunchScreen.storyboard */,
 				245B6EA521CADBEC00395096 /* Info.plist */,
 			);
-			path = itenary;
+			path = itinerary;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		245B6E9521CADBE600395096 /* itenary */ = {
+		245B6E9521CADBE600395096 /* itinerary */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 245B6EA821CADBEC00395096 /* Build configuration list for PBXNativeTarget "itenary" */;
+			buildConfigurationList = 245B6EA821CADBEC00395096 /* Build configuration list for PBXNativeTarget "itinerary" */;
 			buildPhases = (
 				245B6E9221CADBE600395096 /* Sources */,
 				245B6E9321CADBE600395096 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = itenary;
+			name = itinerary;
 			productName = itenary;
-			productReference = 245B6E9621CADBE600395096 /* itenary.app */;
+			productReference = 245B6E9621CADBE600395096 /* itinerary.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 245B6E9121CADBE600395096 /* Build configuration list for PBXProject "itenary" */;
+			buildConfigurationList = 245B6E9121CADBE600395096 /* Build configuration list for PBXProject "itinerary" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				245B6E9521CADBE600395096 /* itenary */,
+				245B6E9521CADBE600395096 /* itinerary */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		245B6E9121CADBE600395096 /* Build configuration list for PBXProject "itenary" */ = {
+		245B6E9121CADBE600395096 /* Build configuration list for PBXProject "itinerary" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				245B6EA621CADBEC00395096 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		245B6EA821CADBEC00395096 /* Build configuration list for PBXNativeTarget "itenary" */ = {
+		245B6EA821CADBEC00395096 /* Build configuration list for PBXNativeTarget "itinerary" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				245B6EA921CADBEC00395096 /* Debug */,
